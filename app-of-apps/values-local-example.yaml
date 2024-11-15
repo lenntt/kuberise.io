@@ -64,6 +64,9 @@ helm:
   vault:
     enabled: false
 
+  gitea:
+    enabled: true
+
   # Microservice examples
 
   show-env:
