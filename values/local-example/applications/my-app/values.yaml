@@ -1,0 +1,7 @@
+containerPorts:
+  http: 80
+
+service:
+  type: ClusterIP
+  ports:
+    http: 80
