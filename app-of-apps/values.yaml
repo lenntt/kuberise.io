@@ -29,3 +29,8 @@ ArgocdApplications:
     enabled: false
     path: templates/generic-deployment
     valuesFolder: applications
+
+  my-app:
+    enabled: false
+    path: templates/generic-deployment
+    valuesFolder: applications

@@ -75,3 +75,6 @@ helm:
 
   api:
     enabled: true
+
+  my-app:
+    enabled: true
